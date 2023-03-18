@@ -1,0 +1,36 @@
+* {
+	margin:0;
+	padding:0;
+	border:0;
+	line-height:1.5;
+	font-family:serif, Times;	
+	white-space:normal;
+	background-color:white
+}			         	
+body {	
+    word-wrap: break-word;			
+    width: 100vw; 
+    height: 100vh        
+}
+h1 {	
+	text-align:center
+}
+h1, a {
+	display:block
+}
+a {
+	width: fit-content; 
+	block-size: fit-content; 
+	margin-bottom:1%;
+	margin-top:1%
+}
+a, p, article h1 {
+	margin-left:7%
+}
+article, p {
+	
+	margin-right:7%
+}
+article, p, h1 {
+	color:#666
+}
